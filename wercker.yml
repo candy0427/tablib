@@ -1,5 +1,5 @@
 # use a small python 2.x container
-box: python:2.6.9
+box: python
 
 # Build definition
 build:
