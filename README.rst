@@ -1,6 +1,6 @@
 Tablib: format-agnostic tabular dataset library
 
-traivs-ci test
+traivs-ci tesit
 ===============================================
 
 .. image:: https://travis-ci.org/kennethreitz/tablib.svg?branch=master
