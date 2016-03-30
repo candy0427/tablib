@@ -1,8 +1,6 @@
 .. _quickstart:
 
-==========
-Quickstart
-==========
+
 
 
 .. module:: tablib
