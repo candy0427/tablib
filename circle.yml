@@ -4,7 +4,7 @@ machine:
     version: 2.7.10
     version: 3.2
     version: 3.3.0
-    version: 3.4.3
+  
 test:
   override:
       - ./test_tablib.py
